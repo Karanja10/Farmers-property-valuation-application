@@ -10,8 +10,9 @@ This project is a web application developed using Django. Python is the main lan
   2. Location/Region
   3. Project description with B/Q
   4. Insurance
-  5. Shavings
+  5. Savings
   6. Farming advisory portal
   7. Blog
   8. Market analysis
+  9. Credit risk management
   
